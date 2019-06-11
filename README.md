@@ -7,7 +7,7 @@ First specify config
 
 e.g., ``` rsa_wholebrain_config.m ```
 
-Run condition-wise whole brain RSA (with example of Think_Recent formed memory)
+Then, run condition-wise whole brain RSA (with example of Think_Recent formed memory)
 
 ``` rsa_wholebrain_condition_T_recent.m ```
 
