@@ -5,7 +5,7 @@ Code accompanying the paper: Liu, Y. et.al. (2016) Memory consolidation reconfig
 
 First specify config
 
-e.g., ``` rsa_wholebrain_config.m ```
+``` rsa_wholebrain_config.m ```
 
 Then, run condition-wise whole brain RSA (with example of Think_Recent formed memory)
 
